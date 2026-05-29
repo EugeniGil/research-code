@@ -54,6 +54,6 @@ Code is released under the MIT License (see `LICENSE`). Data are subject to the 
 
 ## Contact
 
-Eugeni Gil-Ocaña  
+Eugeni Gil-Ocana  
 Universitat Politècnica de València  
 [email] · [ORCID] · [personal website]
