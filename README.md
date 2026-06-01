@@ -58,14 +58,14 @@ Code is released under the MIT License (see `LICENSE`). Data are subject to the 
 
 ## Authors
 
-Eugeni Gil-Ocana  
-Universitat Politècnica de València  
+Eugeni Gil-Ocaña<br>
+Universitat Politècnica de València<br>
 [Website](https://eugenigil.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=iCdLpc8AAAAJ&hl=en)
 
-Ana Garcia-Bernabeu
-Universitat Politècnica de València
+Ana Garcia-Bernabeu<br>
+Universitat Politècnica de València<br>
 [Google Scholar](https://scholar.google.es/citations?user=qY0Vh7gAAAAJ&hl=es)
 
-Pablo de Pedraza
-Universitat Politècnica de València
+Pablo de Pedraza<br>
+Universitat Politècnica de València<br>
 [Google Scholar](https://scholar.google.es/citations?user=XA2Mnj8AAAAJ&hl=es)
