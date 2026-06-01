@@ -31,8 +31,6 @@ When data cannot be shared due to licensing or confidentiality restrictions (for
 Each project specifies its software requirements in its own README. As a general rule:
 
 - Python projects include a `requirements.txt` or `environment.yml`.
-- R projects include a `renv.lock` file.
-- Stata projects list the required version and packages.
 
 Clone the repository and follow the instructions in the project-level README:
 
@@ -57,4 +55,4 @@ Code is released under the MIT License (see `LICENSE`). Data are subject to the 
 
 Eugeni Gil-Ocana  
 Universitat Politècnica de València  
-[https://eugenigil.github.io/] [https://scholar.google.com/citations?user=iCdLpc8AAAAJ&hl=en]
+[Website](https://eugenigil.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=iCdLpc8AAAAJ&hl=en)
