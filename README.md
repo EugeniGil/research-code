@@ -2,6 +2,11 @@
 
 Replication code and data for our research in applied economics and policy evaluation. Each subdirectory contains a self-contained project with its own README, code, and (where licensing allows) data.
 
+</p>
+<p align="center">
+  <img src="assets/logo_evaliax.png" alt="Evaliax" height="80">
+</p>
+
 ## Contents
 
 | Project | Topic | Status | Reference |
