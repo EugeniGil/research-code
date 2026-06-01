@@ -57,4 +57,4 @@ Code is released under the MIT License (see `LICENSE`). Data are subject to the 
 
 Eugeni Gil-Ocana  
 Universitat Politècnica de València  
-[email] · [ORCID] · [personal website]
+[https://eugenigil.github.io/] [https://scholar.google.com/citations?user=iCdLpc8AAAAJ&hl=en]
