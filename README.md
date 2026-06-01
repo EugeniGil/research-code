@@ -6,7 +6,8 @@ Replication code and data for our research in applied economics and policy evalu
 
 | Project | Topic | Status | Reference |
 |---------|-------|--------|-----------|
-| `kit-digital/` | Transparent causal machine learning for SME digitalisation subsidies | Working paper | Gil-Ocaña, de Pedraza & García-Bernabeu (2026) |
+| `kit-digital-transparent-cml/` | Transparent policy evaluation through causal ML: SME digital subsidies | Data & Policy (under review) |
+Data are not redistributed where licensing prohibits it, see each project's README for how to obtain the inputs.
 
 New projects will be added as the corresponding papers are completed.
 
