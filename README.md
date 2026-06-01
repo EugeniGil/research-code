@@ -56,8 +56,16 @@ If you use code or results from this repository, please cite the corresponding p
 
 Code is released under the MIT License (see `LICENSE`). Data are subject to the licensing terms of their original sources, documented at the project level.
 
-## Contact
+## Authors
 
 Eugeni Gil-Ocana  
 Universitat Politècnica de València  
 [Website](https://eugenigil.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=iCdLpc8AAAAJ&hl=en)
+
+Ana Garcia-Bernabeu
+Universitat Politècnica de València
+[Google Scholar](https://scholar.google.es/citations?user=qY0Vh7gAAAAJ&hl=es)
+
+Pablo de Pedraza
+Universitat Politècnica de València
+[Google Scholar](https://scholar.google.es/citations?user=XA2Mnj8AAAAJ&hl=es)
