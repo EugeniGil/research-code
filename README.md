@@ -58,7 +58,7 @@ Code is released under the MIT License (see `LICENSE`). Data are subject to the 
 
 ## Authors
 
-Eugeni Gil-Ocaña<br>
+Eugeni Gil-Ocana<br>
 Universitat Politècnica de València<br>
 [Website](https://eugenigil.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=iCdLpc8AAAAJ&hl=en)
 
